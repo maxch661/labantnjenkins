@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<project name="Hello Ant Project" default="info">
+<target name="info">
+<echho>Hello Javeed</echo>
+</target>
+</project>
